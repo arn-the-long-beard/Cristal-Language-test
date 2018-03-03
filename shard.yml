@@ -1,0 +1,7 @@
+name: webserver
+version: 0.1.0
+
+dependencies:
+  router:
+    github: tbrand/router.cr
+    branch: master
